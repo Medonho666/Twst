@@ -7,7 +7,7 @@
  "Target Profit": "5000",
  "Target Win": "10000",
  "Lose Target": "0",
- "Reset If Target Profit": "ON",
+ "Reset If Target Profit": "OFF",
  "Reset If Target Win": "OFF",
  "Interval": "200",
  "Config": [{
