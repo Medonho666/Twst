@@ -4,7 +4,7 @@
      "Username": "xxx",
      "Password": "xxx"
      },
- "Target Profit": "5000",
+ "Target Profit": "1000",
  "Target Win": "10000",
  "Lose Target": "0",
  "Reset If Target Profit": "OFF",
@@ -85,7 +85,7 @@
      }
   ],
   "Auto Wd": {
-       "Toggle": "ON",
+       "Toggle": "OFF",
        "If Balance": "2000",
        "Wallet Address": "DRxZjD3PrffoRi1FfsjxqahzrguziTeC6T",
        "Amount": "2000"
