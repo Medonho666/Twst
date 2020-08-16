@@ -18,21 +18,21 @@
      "Chance": "70",
      "Random Chance": {
           "Toggle": "ON",
-          "Min": "5",
-          "Max": "50"
+          "Min": "30",
+          "Max": "70"
         },
      "Bet": {
-          "Bet": "LOW",
+          "Bet": "HIGH",
           "Hi / Low": {
-              "Toggle": "ON",
+              "Toggle": "OFF",
               "If Lose": "2",
               "If Win": "5"
             }
         },
-     "If Win": "1",
-     "If Lose": "1.9515",
+     "If Win": "1.1",
+     "If Lose": "1.6",
      "Reset If Win": "0",
-     "Reset If Profit": "0.000000001",
+     "Reset If Profit": "0.000000010",
      "Interval": "0"
      },{
 
@@ -85,7 +85,7 @@
      }
   ],
   "Auto Wd": {
-       "Toggle": "OFF",
+       "Toggle": "ON",
        "If Balance": "2000",
        "Wallet Address": "DRxZjD3PrffoRi1FfsjxqahzrguziTeC6T",
        "Amount": "2000"
