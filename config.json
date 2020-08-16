@@ -22,7 +22,7 @@
      "Bet": {
           "Bet": "Hi",
           "Hi / Low": {
-              "Toggle": "0",
+              "Toggle": "ON",
               "If Lose": "2",
               "If Win": "1"
             }
@@ -84,7 +84,7 @@
      }
   ],
   "Auto Wd": {
-       "Toggle": "ON",
+       "Toggle": "OFF",
        "If Balance": "2000",
        "Wallet Address": "DRxZjD3PrffoRi1FfsjxqahzrguziTeC6T",
        "Amount": "2000"
