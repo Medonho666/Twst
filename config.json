@@ -1,8 +1,8 @@
 {
 
  "Account": {
-     "Username": "xxx",
-     "Password": "xxx"
+     "Username": "Aspargus616",
+     "Password": "dora180980"
      },
  "Target Profit": "50.00000000",
  "Target Win": "100000.00000000",
@@ -86,7 +86,7 @@
   "Auto Wd": {
        "Toggle": "OFF",
        "If Balance": "2000",
-       "Wallet Address": "DRxZjD3PrffoRi1FfsjxqahzrguziTeC6T",
+       "Wallet Address": "DQCUkUBW9z8vtEdJC4YPRUBURHfbYKpemj",
        "Amount": "2000"
       },
   "User-Agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6P Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36"
